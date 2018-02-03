@@ -2,3 +2,5 @@ new feature
 Here we are talking about diff concept
 New line
 second change after commit
+
+-- Marketing manager

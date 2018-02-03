@@ -3,3 +3,4 @@
 -- Formation of development team 30th July
 -- Development process launched
 -- Hiring supporting depts
+-- Admin purchases offices
