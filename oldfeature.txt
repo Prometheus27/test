@@ -4,3 +4,4 @@
 -- Development process launched
 -- Hiring supporting depts
 -- Admin purchases offices
+-- Prototype ready MVP demo ready
